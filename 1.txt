@@ -3,3 +3,5 @@ test casr title: new title
 steps to reproduce: eat my shorts
 
 test case 2
+test casr title: new title 2
+steps to reproduce: eat my shorts second time
